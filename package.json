@@ -1,0 +1,23 @@
+{
+  "name": "nytimes-scrubber",
+  "version": "1.0.0",
+  "description": "Gets articles from NYTimes and stores them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayMFrimmel/nytimes-scrubber.git"
+  },
+  "keywords": [
+    "articles",
+    "NYTimes"
+  ],
+  "author": "JMFrimmel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayMFrimmel/nytimes-scrubber/issues"
+  },
+  "homepage": "https://github.com/JayMFrimmel/nytimes-scrubber#readme"
+}
